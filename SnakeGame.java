@@ -1,3 +1,5 @@
+package Snake_Game;
+
 import javax.swing.JFrame;
 import java.awt.Dimension;
 import java.awt.Toolkit;
