@@ -1,12 +1,11 @@
 
-
 import javax.swing.JFrame;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 
 public class SnakeGame {
 
-    public static void main(String[] args) {
+    public static void main(String[] argss) {
         // Create the main window frame
         JFrame frame = new JFrame("Classic Snake Game");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
